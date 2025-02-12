@@ -2,7 +2,7 @@
 
 ## 📌 Project Overview
 This project focuses on analyzing **retail sales data** using SQL. It includes queries to extract insights related to sales trends, customer behavior, product performance, and profitability.
-##[Project_Folder]](sql_project.sql)
+[Project_Folder](sql_project.sql)
 
 ## 📂 Database Schema
 ### **Table: retail_sales**
